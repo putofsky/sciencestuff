@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.png" alt="Data science winter mascot banner" width="100%" />
+  <img src="./assets/Header.png" alt="Data science winter mascot banner" width="100%" />
 
   # Science & Data Notebooks
 
